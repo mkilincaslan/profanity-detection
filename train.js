@@ -1,24 +1,32 @@
 const brain = require('brain.js');
 const fs = require('fs');
 const profanity = require('./profanity.json');
+const non_profanity = require('./non-profanity.json');
+
+const net = new brain.recurrent.LSTM();
 
 /**
  * Train the model with local data
  */
 
-const net = new brain.recurrent.LSTM();
-
-const trainingData = profanity.map(item => ({
+const profanityData = profanity.map(item => ({
     input: item.input,
     output: item.output,
 }));
+
+const nonProfanityData = non_profanity.map(item => ({
+    input: item.input,
+    output: item.output,
+}));
+
+const TRAINING_DATA = [...nonProfanityData, ...profanityData]; // Merge profanity and non-profanity data
 
 // Training options, more options be able to added
 const options = {
     iterations: 5000,
 };
 
-net.train(trainingData, options); // Training
+net.train(TRAINING_DATA, options); // Training
 const model = net.toJSON(); // Create a model
 
 

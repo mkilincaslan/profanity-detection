@@ -5,6 +5,6 @@ const model = JSON.parse(fs.readFileSync('./model.json', 'utf8')); // Import the
 const net = new brain.recurrent.LSTM();
 net.fromJSON(model); // Include the model
 
-const output = net.run('profanity'); // Run
+const output = net.run('film guzel ama karakter az'); // Run
 
 console.log(output);
