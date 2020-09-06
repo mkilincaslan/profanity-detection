@@ -1,8 +1,8 @@
 # Profanity Detection
 Artificial Intelligence profanity detection service with [brain.js](https://github.com/BrainJS/brain.js).
 
-## Need The Profanity Data File
-First need the profanity data file containing the structure below in the **root** folder with `profanity.json` name.
+## Need The Data File
+First need the profanity and non-profanity data file containing the structure below in the **root** folder with `data.json` name.
 > The content will be yours!
 >
 > Use the right data!!!
@@ -11,6 +11,10 @@ First need the profanity data file containing the structure below in the **root*
         {
             "input": "f*** you",
             "output": "profanity",
+        },
+        {
+            "input": "how are you?",
+            "output": "normally",
         },
         {
             "input": "son of the b****",
