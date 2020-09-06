@@ -9,12 +9,12 @@ First need the profanity data file containing the structure below in the **root*
 
     [
         {
-            "input": "profanity",
-            "output": "YES!",
+            "input": "f*** you",
+            "output": "profanity",
         },
         {
-            "input": "What's up?",
-            "output": "NO!",
+            "input": "son of the b****",
+            "output": "profanity",
         },
         .
         .
