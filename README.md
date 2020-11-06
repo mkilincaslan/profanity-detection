@@ -12,20 +12,22 @@ First need the profanity and non-profanity data file containing the structure be
     [
         {
             "input": "f*** you",
-            "output": "profanity",
+            "output": 0.97,
         },
         {
             "input": "how are you?",
-            "output": "normally",
+            "output": 0.1,
         },
         {
             "input": "son of the b****",
-            "output": "profanity",
+            "output": 0.88,
         },
         .
         .
         .
     ]
+
+* And also you need a test data like 20% for test 80% for training.
 
 ## Installation and Usage
 

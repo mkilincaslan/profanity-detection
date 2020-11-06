@@ -1,0 +1,258 @@
+[
+    {
+        "input": "Hemencecik geldi.",
+        "output": "normal"
+    },
+    {
+        "input": "güzel",
+        "output": "normal"
+    },
+    {
+        "input": "Keyifle kullanıyorum",
+        "output": "normal"
+    },
+    {
+        "input": "Günlük kullanımınızı çok çok iyi karsılıyor",
+        "output": "normal"
+    },
+    {
+        "input": "gayet güzel",
+        "output": "normal"
+    },
+    {
+        "input": "Selam Nazik sözlerimiz için teşekkürler.",
+        "output": "normal"
+    },
+    {
+        "input": "Sadece bu makalenin tarafsızlığının tartışıldığını fark ettim ",
+        "output": "normal"
+    },
+    {
+        "input": "Selam Merhaba iyi günler. Değişiklik yaptığım için en derin özür dilerim",
+        "output": "normal"
+    },
+    {
+        "input": "ayrıca Üç olarak adlandırılan filmler veya bunların bazı varyasyonları disambig sayfasında",
+        "output": "normal"
+    },
+    {
+        "input": "Araştırma yaptım çok teşekkür ederim,",
+        "output": "normal"
+    },
+    {
+        "input": "Üzgünüm Birinin konuşma sayfasıyla uğraştığım için üzgünüm.",
+        "output": "normal"
+    },
+    {
+        "input": "Hiç de değil, burada saman adam tartışması yapıyorsunuz. ",
+        "output": "normal"
+    },
+    {
+        "input": "Yukarıdaki listeyi çok hızlı bir şekilde gönderebildim",
+        "output": "normal"
+    },
+    {
+        "input": "Son düzenlemelerinizle ilgili Daha fazla film makalesini düzenlemeden önce lütfen dikkat ediniz",
+        "output": "normal"
+    },
+    {
+        "input": "Başka bir deyişle, aslında herhangi bir şeyi belirtmek için çok tembelsiniz.",
+        "output": "normal"
+    },
+    {
+        "input": "Tabii, ama lider Ermenistan'ın tarihini kısaca özetlemelidir. Sadece gerekli bulduğumu ekledim. ",
+        "output": "normal"
+    },
+    {
+        "input": "Hoşçakal! Bakma, gelme ya da geri dönmeyi düşünme! ",
+        "output": "normal"
+    },
+    {
+        "input": "Beni asla şaşırtmaktan vazgeçmeyin.",
+        "output": "normal"
+    },
+    {
+        "input": "Şu anda yaptığınız her şeyi yapabilirsiniz",
+        "output": "normal"
+    },
+    {
+        "input": "Ben de seninle tanışmaktan zevk aldım.",
+        "output": "normal"
+    },
+    {
+        "input": "Sadece eğleniyorum adamım",
+        "output": "normal"
+    },
+    {
+        "input": "Oh, bilmiyordum, teşekkürler.",
+        "output": "normal"
+    },
+    {
+        "input": "Rahatsız ettiğim için üzgünüm ama şu an düzenlemedeyim",
+        "output": "normal"
+    },
+    {
+        "input": "Üzgünüm, bana verdiğin bağlantı öldü",
+        "output": "normal"
+    },
+    {
+        "input": "Fotoğrafı sabitledim, eğer birisi hala hareket etmesi gerektiğini hissederse yapılabilir",
+        "output": "normal"
+    },
+    {
+        "input": "3 yıldır kullanıyorum müthiş",
+        "output": "normal"
+    },
+    {
+        "input": "Ürün bugün elime geçti çok fazla inceleme fırsatım olmadı",
+        "output": "normal"
+    },
+    {
+        "input": "gözüme çarpan ilk şey usb bağlantısı.",
+        "output": "normal"
+    },
+    {
+        "input": "Almaya karar verdim.",
+        "output": "normal"
+    },
+    {
+        "input": "Çok kaliteli bir ürün ve fiyatı da uygun.",
+        "output": "normal"
+    },
+    {
+        "input": "Uzun araştırmalarım sonucu aldım ve çok memnunum.",
+        "output": "normal"
+    },
+    {
+        "input": "Filmi sevdim karakterler iyi",
+        "output": "normal"
+    },
+    {
+        "input": "güzel dizi",
+        "output": "normal"
+    },
+    {
+        "input": "karakterler süper",
+        "output": "normal"
+    },
+    {
+        "input": "Sen, efendim, benim kahramanımsın.  Hangi sayfada olduğunu hatırlama şansın var mı?",
+        "output": "normal"
+    },
+    {
+        "input": "yukarıdaki kız benimle tartışmalara başladı. Burnunu ait olmadığı yere yapıştırdı. Bu tartışm...",
+        "output": "normal"
+    },
+    {
+        "input": "Hey adamım, gerçekten savaşı düzenlemeye çalışmıyorum. Sadece bu adam sürekli olarak ilgili bilgiler.",
+        "output": "normal"
+    },
+    {
+        "input": "Sanırım birbirimizin tepkilerini görmeden birbirimize cevap verdik.",
+        "output": "normal"
+    },
+    {
+        "input": "Bloğun süresi dolmadan nasıl mesaj gönderebilirim? Komik olan şey, sence sivil olmam!",
+        "output": "normal"
+    },
+    {
+        "input": "Seni rahatsız etmek istemiyorum Burada yayınlanan bir şeyi kaldırma konusunda bir şeyler yazdığınız.",
+        "output": "normal"
+    },
+    {
+        "input": "'Saçma' kelimesi sizi rahatsız ederse özür dilerim. Her neyse, makalede hiçbir şey yazmaya niyetim yok.",
+        "output": "normal"
+    },
+    {
+        "input": "Kar taneleri her zaman simetrik DEĞİLDİR!",
+        "output": "normal"
+    },
+    {
+        "input": "Teşekkürler.",
+        "output": "normal"
+    },
+    {
+        "input": "Görünüşe göre sıkışmış olduğum arka plan rengiyle eşleşiyor. ",
+        "output": "normal"
+    },
+    {
+        "input": "'Özgürlük için Mücadele' başlığından emin değilim ne içerecek?",
+        "output": "normal"
+    },
+    {
+        "input": "Bunu bildiğim iyi oldu. Benim hakkımda, evet, şimdi çalışıyorum.",
+        "output": "normal"
+    },
+    {
+        "input": "Tamam. Ama bu biraz iş gerektirecek ama tam olarak hayal edemiyorum. ",
+        "output": "normal"
+    },
+    {
+        "input": "Benden de tebrikler, araçları iyi kullan. ",
+        "output": "normal"
+    },
+    {
+        "input": "barbekü erkek ol ve tartışalım",
+        "output": "normal"
+    },
+    {
+        "input": "Tarafsızlığı tartıştığım için beni tehdit mi ediyorsun?",
+        "output": "normal"
+    },
+    {
+        "input": "Aynı zamanda oraya gittim ve o zamanlar böyle değildi.",
+        "output": "normal"
+    },
+    {
+        "input": "Artie'nin ne kadar şişman olduğuna neden inanmıyorsun?",
+        "output": "normal"
+    },
+    {
+        "input": "Selam",
+        "output": "normal"
+    },
+    {
+        "input": "Aradığım şey bu",
+        "output": "normal"
+    },
+    {
+        "input": "Şimdi okuduğunuz için teşekkürler",
+        "output": "normal"
+    },
+    {
+        "input": "İkiniz de çenenizi kapar mısınız",
+        "output": "normal"
+    },
+    {
+        "input": "Bu makale ciddi dengesiz",
+        "output": "normal"
+    },
+    {
+        "input": "DUYGULARIMI KONTROL ETMEK ZOR OLDU",
+        "output": "normal"
+    },
+    {
+        "input": "Ona hatırlama ile ilgili bir soru sordum, belki bu seni daha az rahatsız ederdi",
+        "output": "normal"
+    },
+    {
+        "input": " Güvenilir kaynaklar aksini gösterir.",
+        "output": "normal"
+    },
+    {
+        "input": "Lütfen kişisel analizinizi makaleye yazmayınız.",
+        "output": "normal"
+    },
+    {
+        "input": "Merhaba ve hoşgeldin!",
+        "output": "normal"
+    },
+    {
+        "input": "Lütfen, lütfen, devam edin. Bana gerçekten ne düşündüğünü söyle.",
+        "output": "normal"
+    },
+    {
+        "input": "Çok iyi. Gördüğüm kadarıyla, fikir birliği var.",
+        "output": "normal"
+    }
+]
