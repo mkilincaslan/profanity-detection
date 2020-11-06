@@ -4,6 +4,7 @@ const data = require('./data.json');
 
 /**
  * * Create the train brain action with params which are these below
+ * * This params are best at the moment to training a profanity model but then we need a big data for training
  * @param activation Uses activation function for the scale results between 0 - 1
  * @param hiddenLayers Uses intermediate layers for the training better the model
  * TODO: Learn more about the activation functions: relu, leaky-relu, softmax, sigmoid, tanh
@@ -13,7 +14,7 @@ const data = require('./data.json');
 const net = new brain.recurrent.LSTM(
     {
         activation: 'sigmoid',
-        hiddenLayers: [45, 45, 45]
+        hiddenLayers: [90, 90, 90]
     }
 );
 
@@ -27,8 +28,9 @@ const TRAINING_DATA = data.map(({input, output}) => ({
 }));
 
 // Training options, more options be able to added
+// Best options weightiness, momentum and iterations for training to profanity model. It achieves 85% success rate with good data.
 const options = {
-    iterations: 600, // Times to iterate
+    iterations: 1000, // Times to iterate
     // errorThresh: 0.02, // The acceptable error percentage from training data
     log: true, // console.log
     learningRate: 0.01, // Scales with delta to effect training rate --> number between 0 and 1, lambda, it must be lower for better training
