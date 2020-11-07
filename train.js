@@ -30,7 +30,7 @@ const TRAINING_DATA = data.map(({input, output}) => ({
 // Training options, more options be able to added
 // Best options weightiness, momentum and iterations for training to profanity model. It achieves 85% success rate with good data.
 const options = {
-    iterations: 1000, // Times to iterate
+    iterations: 900, // Times to iterate
     // errorThresh: 0.02, // The acceptable error percentage from training data
     log: true, // console.log
     learningRate: 0.01, // Scales with delta to effect training rate --> number between 0 and 1, lambda, it must be lower for better training
